@@ -39,4 +39,6 @@ npm install @mui/icons-material
 
 ###feat: instalação do material ui v5
 
+###feat: Adicionado tema claro e provider
+
 ##Cadastros

@@ -25,4 +25,18 @@ shared = compartilhado
 ##Instalando react router dom 
      npm install react-router-dom@6
 ###commit de feat: Adicionado react-router-dom@6
+
+###Instalar material
+npm install @mui/material @emotion/react @emotion/styled
+
+npm install @mui/icons-material
+
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;600;700&display=swap" />
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons" />
+
+###feat: instalação do material ui v5
+
 ##Cadastros
